@@ -12,7 +12,7 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **entrada_de_dados**: Uso da entrada de dados junto com o printf para demonstrar número (escolhido pelo usuário) de formas diferentes.
 - **calculadora_de_soma**: lê dois números, soma e pergunta ao usuário se o resultado está correto.
 - **calculadora_de_idade**: Utiliza a classe LocalDate para calcular sua idade baseada no ano atual e no do seu nascimento.
-- **operadores_aritmetico**: Realiza operações aritméticas com dois números escolhidos pelo usuário.
+- **operadores_aritmeticos**: Realiza operações aritméticas com dois números escolhidos pelo usuário.
 
 ## Como rodar
 
