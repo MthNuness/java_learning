@@ -6,12 +6,12 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 ## Projetos
 
 - **Hello_World**: Clássico Olá, Mundo!
-- **Horasdo_Sistema**: Informa as horas, língua, país e resolução do seu sistema.
+- **Horas_do_Sistema**: Informa as horas, língua, país e resolução do seu sistema.
 - **Tipos_Primitivos**: Primeiro contato com variáveis e tipos primitivos. Pega dados meus e informa ao usuário.
 - **Testando_printf**: Utilizo o printf para mostrar um número de diversas formas.
-- **Entradade_Dados**: Uso da entrada de dados junto com o printf para demonstrar número (escolhido pelo usuário) de formas diferentes.
-- **Calculadorade_Soma**: lê dois números, soma e pergunta ao usuário se o resultado está correto.
-- **Calculadorade_Idade**: Utiliza a classe LocalDate para calcular sua idade baseada no ano atual e no do seu nascimento.
+- **Entrada_de_Dados**: Uso da entrada de dados junto com o printf para demonstrar número (escolhido pelo usuário) de formas diferentes.
+- **Calculadora_de_Soma**: lê dois números, soma e pergunta ao usuário se o resultado está correto.
+- **Calculadora_de_Idade**: Utiliza a classe LocalDate para calcular sua idade baseada no ano atual e no do seu nascimento.
 - **Operadores_Aritmetico**: Realiza operações aritméticas com dois números escolhidos pelo usuário.
 
 ## Como rodar
