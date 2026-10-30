@@ -19,6 +19,14 @@ public class OperadoresAritmetico {
 		double resto = N1 % N2;
 		double media = (N1 + N2) / 2;
 		double potencia  = Math.pow(N1, N2);
+		double cubo = Math.pow(N1, 3);
+		double cubo2 = Math.pow(N2, 3);
+		double raizQuadrada = Math.sqrt(N1);
+		double raizQuadrada2 = Math.sqrt(N2);
+		double raozCubica = Math.cqrt(N1);
+		double raizCubica2 = Math.cbrt(N2);
+
+
 
 		//Exibindo os resultados
 		System.out.println("A soma dos números é: " + soma);
@@ -28,6 +36,8 @@ public class OperadoresAritmetico {
 		System.out.println("O resto da divisão dos números é: " + resto);
 		System.out.println("A média dos números é: " + media);
 		System.out.println("A potência do primeiro número elevado ao segundo é: " + potencia);
+		System.out.println("O primeiro número elevado ao cubo e': " +cubo);
+		System.out.println("O segundo número elevado ao cubo e': " +cubo2);
 
 		num.close();
 	}
