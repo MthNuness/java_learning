@@ -23,8 +23,10 @@ public class OperadoresAritmetico {
 		double cubo2 = Math.pow(N2, 3);
 		double raizQuadrada = Math.sqrt(N1);
 		double raizQuadrada2 = Math.sqrt(N2);
-		double raozCubica = Math.cqrt(N1);
+		double raozCubica = Math.cbrt(N1);
 		double raizCubica2 = Math.cbrt(N2);
+		double valorAbsoluto = Math.abs(N1);
+		double valorAbsoluto2 = Math.abs(N2);
 
 
 
@@ -38,6 +40,12 @@ public class OperadoresAritmetico {
 		System.out.println("A potência do primeiro número elevado ao segundo é: " + potencia);
 		System.out.println("O primeiro número elevado ao cubo e': " +cubo);
 		System.out.println("O segundo número elevado ao cubo e': " +cubo2);
+		System.out.println("A raiz quadrada do primeiro número é: " + raizQuadrada);
+		System.out.println("A raiz quadrada do segundo número é: " + raizQuadrada2);
+		System.out.println("A raiz cúbica do primeiro número é: " + raozCubica);
+		System.out.println("A raiz cúbica do segundo número é: " + raizCubica2);
+		System.out.println("O valor absoluto do primeiro número é: " + valorAbsoluto);
+		System.out.println("O valor absoluto do segundo número é: " + valorAbsoluto2);
 
 		num.close();
 	}
