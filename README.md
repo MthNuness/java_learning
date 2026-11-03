@@ -13,6 +13,8 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **calculadora_de_soma**: lê dois números, soma e pergunta ao usuário se o resultado está correto.
 - **calculadora_de_idade**: Utiliza a classe LocalDate para calcular sua idade baseada no ano atual e no do seu nascimento.
 - **operadores_aritmeticos**: Realiza operações aritméticas com dois números escolhidos pelo usuário.
+- **operadores_ternarios**: Utilizo if e else para fazer comparações e simplifico o código utilizando operadores ternários.
+- **operadores_relacionais_logicos**: Utilizo operadores relacionais e lógicos para comparar números escolhidos pelo usuário.
 
 ## Como rodar
 
