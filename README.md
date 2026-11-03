@@ -18,6 +18,7 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **jogo_de_adivinhacao**: Utilizo if, else e Math.random() para criar um jogo de adivinhação, no qual o programa sorteia aleatoriamente um número de 1 a 5 e verifica se o número escolhido pelo usuário corresponde ao número sorteado.
 - **par_ou_impar**: Utilizo if e else para informar ao usuário se o número escolhido por ele é par ou ímpar.
 - **teste_eleitoral**: O programa solicita a idade do usuário e, com base nela, utiliza estruturas condicionais (if e else) para determinar se o voto é obrigatório, facultativo ou proibido.
+- **equacao_de_segundograu**: O programa resolve uma equação do segundo grau, calcula o valor do discriminante (delta) e apresenta suas raízes reais, utilizando a fórmula de Bhaskara.
 
 ## Como rodar
 
