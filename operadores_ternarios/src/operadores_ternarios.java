@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class operadores_logicos {
+public class operadores_ternarios {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Escreva o primeiro número:" );
@@ -23,6 +23,24 @@ public class operadores_logicos {
         //Fazendo por operador ternário
         R = (N1 > N2) ? 1 : (N2 > N1) ? 2 : 3;
         System.out.println("O resultado da comparação é: " + R);
+
+        //Operadores Lógicos
+        int x, y, z;
+        x= 5;
+        y= 10;
+        z= 15;
+
+        r = (x < y && y < z)? true:false;
+        System.out.println("O resultado da comparação é: " + r);
+
+        r = (x < y || y < z)? true:false;
+        System.out.println("O resultado da comparação é: " + r);
+
+        r = (x < y ^ y < z)? true:false;
+        System.out.println("O resultado da comparação é: " + r);
+
+        r = !(x < y && y < z)? true:false;
+        System.out.println("O resultado da comparação é: " + r);
     }
     
 }
