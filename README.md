@@ -15,6 +15,7 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **operadores_aritmeticos**: Realiza operações aritméticas com dois números escolhidos pelo usuário.
 - **operadores_ternarios**: Utilizo if e else para fazer comparações e simplifico o código utilizando operadores ternários.
 - **operadores_relacionais_logicos**: Utilizo operadores relacionais e lógicos para comparar números escolhidos pelo usuário.
+- **jogo_de_adivinhacao**: Utilizo if, else e Math.random() para criar um jogo de adivinhação, no qual o programa sorteia aleatoriamente um número de 1 a 5 e verifica se o número escolhido pelo usuário corresponde ao número sorteado.
 
 ## Como rodar
 
