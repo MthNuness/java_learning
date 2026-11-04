@@ -19,6 +19,7 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **par_ou_impar**: Utilizo if e else para informar ao usuário se o número escolhido por ele é par ou ímpar.
 - **teste_eleitoral**: O programa solicita a idade do usuário e, com base nela, utiliza estruturas condicionais (if e else) para determinar se o voto é obrigatório, facultativo ou proibido.
 - **equacao_de_segundograu**: O programa resolve uma equação do segundo grau, calcula o valor do discriminante (delta) e apresenta suas raízes reais, utilizando a fórmula de Bhaskara.
+- **tipos_de_triangulos**: O programa solicita ao usuário os três lados de um triângulo e verifica, por meio de estruturas condicionais, se eles atendem às condições de existência de um triângulo. Caso seja válido, identifica e informa sua classificação: equilátero, isósceles ou escaleno.
 
 ## Como rodar
 
