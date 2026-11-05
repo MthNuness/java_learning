@@ -21,6 +21,8 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **equacao_de_segundograu**: O programa resolve uma equação do segundo grau, calcula o valor do discriminante (delta) e apresenta suas raízes reais, utilizando a fórmula de Bhaskara.
 - **tipos_de_triangulos**: O programa solicita ao usuário os três lados de um triângulo e verifica, por meio de estruturas condicionais, se eles atendem às condições de existência de um triângulo. Caso seja válido, identifica e informa sua classificação: equilátero, isósceles ou escaleno.
 - **contador**: Utilizo a estrutura de repetição while para criar um sistema de contagem que inicia em 1 e vai até o número informado pelo usuário.
+- **fatorial**: Utilizo a estrutura de repetição while para criar um sistema que calcula e apresenta o fatorial de qualquer número inteiro não negativo informado pelo usuário.
+- **dados_de_repetição**: Utilizo a estrutura de repetição while, com teste no final do loop (do while), para criar um sistema que contabiliza o total de valores informados, a quantidade de números pares e ímpares, os valores acima de 100 e a média dos números inseridos.
 
 ## Como rodar
 
