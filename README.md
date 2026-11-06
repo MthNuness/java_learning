@@ -26,6 +26,8 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **vetores**: Utilizo vetores para armazenar e exibir a quantidade de dias de cada mês do ano. Caso o ano seja bissexto, o programa adiciona um dia ao mês de fevereiro.
 - **organizador_de_numeros**: Utilizo vetores e as estruturas de repetição for e for it para perguntar ao usuário quantos números deseja organizar e quais são eles. Em seguida, o programa organiza os números em ordem crescente.
 - **multiplas_classes**: Meu primeiro contato com múltiplas classes. Utilizo dois arquivos diferentes e acesso, em um deles, a um método definido no outro.
+- **fatorial_com_classes**: Utilizo múltiplas classes para calcular e apresentar o fatorial do número 5, dividindo as responsabilidades do programa entre diferentes classes e arquivos.
+
 ## Como rodar
 
 ### Pré-requisitos
