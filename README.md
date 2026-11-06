@@ -24,6 +24,7 @@ São exercícios simples, criados para praticar e demonstrar a minha evolução.
 - **fatorial**: Utilizo a estrutura de repetição while para criar um sistema que calcula e apresenta o fatorial de qualquer número inteiro não negativo informado pelo usuário.
 - **dados_de_repetição**: Utilizo a estrutura de repetição while, com teste no final do loop (do while), para criar um sistema que contabiliza o total de valores informados, a quantidade de números pares e ímpares, os valores acima de 100 e a média dos números inseridos.
 - **vetores**: Utilizo vetores para armazenar e exibir a quantidade de dias de cada mês do ano. Caso o ano seja bissexto, o programa adiciona um dia ao mês de fevereiro.
+- **organizador_de_numeros**: Utilizo vetores e as estruturas de repetição for e for it para perguntar ao usuário quantos números deseja organizar e quais são eles. Em seguida, o programa organiza os números em ordem crescente.
 
 ## Como rodar
 
