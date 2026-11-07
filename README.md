@@ -56,7 +56,7 @@ cd java_learning
 Entre na pasta do exercício e execute o arquivo (compila e roda em um passo só):
 
 ```bash
-cd Hello_World
+cd hello_world
 java src/HelloWorld.java
 ```
 
