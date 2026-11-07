@@ -19,7 +19,6 @@ public class bancodigital{
             System.out.println("[ 2 ] Depositar");        
             System.out.println("[ 3 ] Sacar");
             System.out.println("[ 4 ] Transferir");
-            System.out.println("[ 5 ] Ver extrato");
             System.out.println("[ 0 ] Sair");
             System.out.println("");
             System.out.print("Escolha uma opção: ");
@@ -56,6 +55,7 @@ public class bancodigital{
                     }
                     break;
                 case 4:
+                    String N2 = sc.nextLine();
                     System.out.println("Saldo atual: " + saldo1);
                     System.out.print("Para quem deseja transferir? ");
                     String transferir1 = sc.nextLine();
